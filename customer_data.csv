@@ -1,0 +1,51 @@
+customer_id,full_name,gender,signup_date,city
+1,Customer 1,Female,2023-12-10,Abuja
+2,Customer 2,Male,2023-03-13,Abuja
+3,Customer 3,Female,2023-03-05,Kano
+4,Customer 4,Female,2023-07-24,Lagos
+5,Customer 5,Male,2023-07-28,Port Harcourt
+6,Customer 6,Female,2023-03-13,Enugu
+7,Customer 7,Female,2023-10-04,Port Harcourt
+8,Customer 8,Female,2023-10-01,Port Harcourt
+9,Customer 9,Male,2023-11-16,Lagos
+10,Customer 10,Male,2023-12-04,Lagos
+11,Customer 11,Male,2023-04-05,Lagos
+12,Customer 12,Male,2023-06-15,Abuja
+13,Customer 13,Female,2023-02-01,Kano
+14,Customer 14,Male,2023-01-11,Abuja
+15,Customer 15,Male,2023-10-28,Kano
+16,Customer 16,Female,2023-08-05,Kano
+17,Customer 17,Female,2023-10-16,Port Harcourt
+18,Customer 18,Female,2023-04-12,Port Harcourt
+19,Customer 19,Male,2023-09-24,Kano
+20,Customer 20,Male,2023-08-02,Kano
+21,Customer 21,Male,2023-06-28,Abuja
+22,Customer 22,Female,2023-03-29,Abuja
+23,Customer 23,Female,2023-02-10,Port Harcourt
+24,Customer 24,Male,2023-03-17,Lagos
+25,Customer 25,Female,2023-02-15,Kano
+26,Customer 26,Female,2023-06-09,Abuja
+27,Customer 27,Female,2023-03-21,Port Harcourt
+28,Customer 28,Male,2023-11-06,Abuja
+29,Customer 29,Female,2023-03-27,Kano
+30,Customer 30,Female,2023-04-02,Kano
+31,Customer 31,Male,2023-05-28,Enugu
+32,Customer 32,Male,2023-06-10,Lagos
+33,Customer 33,Female,2023-07-21,Enugu
+34,Customer 34,Female,2023-08-30,Port Harcourt
+35,Customer 35,Male,2023-12-19,Abuja
+36,Customer 36,Male,2023-01-02,Port Harcourt
+37,Customer 37,Female,2023-08-13,Kano
+38,Customer 38,Female,2023-10-16,Enugu
+39,Customer 39,Female,2023-08-21,Enugu
+40,Customer 40,Female,2023-03-18,Enugu
+41,Customer 41,Male,2023-04-26,Port Harcourt
+42,Customer 42,Female,2023-06-03,Kano
+43,Customer 43,Female,2023-04-13,Abuja
+44,Customer 44,Male,2023-07-13,Abuja
+45,Customer 45,Female,2023-06-15,Port Harcourt
+46,Customer 46,Male,2023-12-25,Enugu
+47,Customer 47,Female,2023-03-31,Lagos
+48,Customer 48,Female,2023-06-23,Port Harcourt
+49,Customer 49,Male,2023-05-02,Port Harcourt
+50,Customer 50,Male,2023-05-23,Kano

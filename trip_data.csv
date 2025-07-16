@@ -1,0 +1,201 @@
+trip_id,customer_id,origin,destination,booking_date,travel_date,price,vehicle_type,status
+1,39,Port Harcourt,Port Harcourt,2024-12-29,2025-01-23,63215.95,Van,Completed
+2,29,Lagos,Kano,2024-06-30,2024-12-26,51694.71,Van,Completed
+3,15,Kano,Enugu,2024-06-15,2025-01-23,43010.33,Bus,Completed
+4,43,Lagos,Abuja,2024-03-31,2024-07-03,38828.86,Bus,Completed
+5,8,Lagos,Kano,2024-07-20,2024-10-08,34420.78,Car,Cancelled
+6,21,Abuja,Abuja,2024-12-11,2024-07-14,75067.04,Car,Completed
+7,39,Kano,Port Harcourt,2024-01-19,2024-12-18,68143.36,Bus,Completed
+8,19,Kano,Lagos,2024-02-08,2024-07-14,77551.88,Car,Cancelled
+9,23,Abuja,Port Harcourt,2024-05-05,2024-06-04,18700.81,Bus,Completed
+10,11,Port Harcourt,Kano,2024-06-21,2024-04-03,61160.72,Van,Completed
+11,11,Lagos,Abuja,2024-05-20,2024-06-09,75683.83,Car,Pending
+12,24,Enugu,Abuja,2024-08-29,2024-03-02,22686.31,Car,Completed
+13,36,Lagos,Enugu,2024-08-07,2024-05-02,14654.74,Bus,Completed
+14,40,Lagos,Abuja,2024-05-05,2024-02-21,61878.45,Car,Pending
+15,24,Port Harcourt,Enugu,2024-02-27,2024-10-04,50213.12,Car,Completed
+16,3,Lagos,Lagos,2024-05-27,2024-01-06,68928.01,Van,Completed
+17,22,Abuja,Kano,2024-11-12,2024-04-02,19784.07,Car,Completed
+18,2,Abuja,Enugu,2024-12-26,2024-06-19,65668.71,Van,Pending
+19,24,Kano,Lagos,2024-01-01,2024-11-13,24113.91,Bus,Completed
+20,44,Enugu,Abuja,2024-12-13,2024-01-23,21455.92,Car,Completed
+21,30,Lagos,Abuja,2024-07-08,2024-11-22,21498.61,Van,Completed
+22,38,Lagos,Lagos,2024-07-09,2024-01-02,67020.23,Bus,Completed
+23,2,Port Harcourt,Abuja,2024-11-07,2024-05-13,56563.81,Car,Completed
+24,21,Abuja,Lagos,2024-04-26,2024-08-21,46614.58,Bus,Completed
+25,33,Enugu,Enugu,2024-05-13,2024-01-13,35118.13,Car,Completed
+26,12,Kano,Enugu,2024-02-27,2024-12-12,71404.04,Bus,Completed
+27,22,Abuja,Lagos,2024-02-13,2024-02-16,37471.16,Bus,Completed
+28,44,Kano,Enugu,2024-06-21,2024-02-04,67161.96,Van,Completed
+29,25,Port Harcourt,Enugu,2024-06-08,2024-03-19,40739.44,Bus,Completed
+30,49,Port Harcourt,Enugu,2024-06-21,2024-08-06,36386.11,Car,Completed
+31,27,Lagos,Port Harcourt,2024-11-12,2024-10-28,42387.58,Car,Cancelled
+32,42,Enugu,Kano,2024-10-29,2024-03-14,31096.45,Van,Completed
+33,28,Kano,Abuja,2024-05-28,2024-10-09,62332.66,Car,Completed
+34,16,Abuja,Port Harcourt,2024-03-20,2024-09-06,45190.43,Car,Completed
+35,15,Port Harcourt,Enugu,2024-07-31,2024-02-17,26254.89,Car,Pending
+36,47,Lagos,Lagos,2024-07-21,2024-05-01,72970.22,Bus,Cancelled
+37,44,Lagos,Enugu,2024-09-08,2024-08-02,36872.39,Bus,Completed
+38,3,Kano,Kano,2024-08-16,2024-08-27,48048.7,Car,Completed
+39,37,Port Harcourt,Enugu,2024-06-12,2024-02-26,73453.05,Van,Pending
+40,7,Enugu,Lagos,2024-08-14,2024-12-16,53696.66,Bus,Completed
+41,21,Port Harcourt,Kano,2024-05-26,2024-04-17,18182.86,Van,Completed
+42,9,Kano,Enugu,2024-01-20,2024-11-15,75788.25,Car,Completed
+43,39,Kano,Kano,2024-02-16,2024-02-18,53939.56,Car,Completed
+44,18,Port Harcourt,Abuja,2024-08-20,2024-03-02,33443.39,Bus,Pending
+45,4,Kano,Abuja,2024-10-31,2024-12-03,19749.05,Car,Cancelled
+46,25,Port Harcourt,Enugu,2024-01-14,2024-01-27,65581.76,Bus,Completed
+47,14,Abuja,Kano,2024-05-22,2024-10-19,53405.09,Car,Completed
+48,50,Port Harcourt,Lagos,2024-01-01,2024-09-14,47342.28,Car,Pending
+49,9,Port Harcourt,Enugu,2024-02-23,2024-01-09,72572.48,Bus,Pending
+50,26,Kano,Abuja,2024-09-15,2024-04-23,65201.8,Bus,Completed
+51,2,Kano,Abuja,2024-05-23,2024-12-21,20617.24,Bus,Pending
+52,20,Lagos,Enugu,2024-01-12,2024-09-10,31820.54,Car,Pending
+53,28,Lagos,Kano,2024-11-25,2024-06-29,27394.24,Car,Cancelled
+54,47,Abuja,Abuja,2024-08-11,2024-07-26,62076.24,Van,Completed
+55,7,Lagos,Kano,2024-09-28,2024-10-30,12347.27,Bus,Completed
+56,44,Port Harcourt,Abuja,2024-12-23,2024-05-07,49892.28,Car,Cancelled
+57,8,Kano,Abuja,2024-06-04,2024-02-26,63372.11,Car,Completed
+58,47,Lagos,Port Harcourt,2024-01-08,2024-08-02,71373.59,Bus,Cancelled
+59,35,Lagos,Abuja,2024-05-01,2024-01-15,33945.72,Van,Completed
+60,14,Abuja,Lagos,2024-12-13,2024-01-29,67488.01,Bus,Completed
+61,17,Abuja,Enugu,2024-06-12,2024-03-19,17744.22,Van,Completed
+62,36,Port Harcourt,Enugu,2024-03-30,2024-08-04,69251.66,Car,Completed
+63,50,Kano,Kano,2024-05-15,2025-01-21,18924.21,Van,Pending
+64,40,Abuja,Abuja,2024-07-04,2024-12-31,37810.11,Car,Cancelled
+65,4,Lagos,Lagos,2024-11-11,2024-06-03,65810.68,Bus,Cancelled
+66,2,Kano,Kano,2024-06-26,2024-01-15,20494.22,Bus,Completed
+67,6,Kano,Port Harcourt,2024-01-28,2024-07-06,26047.6,Bus,Completed
+68,42,Lagos,Kano,2024-08-07,2024-11-08,60557.68,Van,Completed
+69,4,Abuja,Kano,2024-12-22,2025-01-06,60402.56,Car,Completed
+70,29,Lagos,Abuja,2024-02-10,2024-01-08,54880.33,Bus,Completed
+71,18,Kano,Port Harcourt,2024-08-15,2024-01-04,58576.39,Bus,Completed
+72,26,Enugu,Kano,2024-07-10,2024-04-21,47990.71,Car,Completed
+73,44,Enugu,Lagos,2024-05-24,2024-08-26,27625.93,Bus,Completed
+74,34,Port Harcourt,Lagos,2024-07-19,2024-12-29,34198.72,Car,Pending
+75,10,Lagos,Enugu,2024-07-30,2024-08-27,22711.84,Car,Pending
+76,36,Lagos,Port Harcourt,2024-08-07,2024-10-01,73591.54,Car,Completed
+77,14,Port Harcourt,Port Harcourt,2024-08-27,2024-10-21,50837.43,Car,Completed
+78,31,Port Harcourt,Enugu,2024-02-15,2024-08-15,38059.6,Car,Cancelled
+79,48,Port Harcourt,Kano,2024-02-04,2025-01-06,42340.41,Van,Completed
+80,15,Kano,Port Harcourt,2024-09-09,2024-01-16,76309.83,Bus,Pending
+81,8,Lagos,Lagos,2024-03-22,2024-07-11,20734.6,Van,Pending
+82,14,Kano,Lagos,2024-09-12,2024-04-29,51036.09,Bus,Completed
+83,23,Port Harcourt,Abuja,2024-07-15,2024-01-29,45412.21,Van,Completed
+84,40,Lagos,Port Harcourt,2024-10-29,2024-07-21,52801.8,Car,Completed
+85,21,Kano,Kano,2024-01-10,2024-02-09,11267.71,Bus,Completed
+86,16,Kano,Enugu,2024-11-07,2024-09-30,71048.67,Bus,Completed
+87,45,Port Harcourt,Enugu,2024-10-12,2024-08-19,75248.28,Van,Pending
+88,18,Lagos,Kano,2024-08-29,2024-03-27,49559.32,Van,Completed
+89,47,Port Harcourt,Abuja,2024-09-07,2024-05-06,58765.56,Bus,Completed
+90,24,Lagos,Enugu,2024-12-30,2024-10-27,74574.96,Van,Pending
+91,26,Enugu,Port Harcourt,2024-01-05,2024-01-26,59506.7,Van,Cancelled
+92,25,Abuja,Abuja,2024-04-28,2024-05-25,20677.73,Van,Completed
+93,45,Abuja,Port Harcourt,2024-10-15,2024-01-14,50340.19,Car,Completed
+94,41,Abuja,Lagos,2024-03-05,2024-07-31,52470.05,Car,Completed
+95,29,Port Harcourt,Abuja,2024-05-25,2024-01-26,39689.15,Van,Completed
+96,15,Enugu,Enugu,2024-08-11,2024-03-09,61551.1,Van,Completed
+97,45,Lagos,Abuja,2024-08-26,2025-01-29,75405.69,Car,Completed
+98,1,Kano,Abuja,2024-06-25,2024-03-08,74789.8,Car,Pending
+99,25,Lagos,Abuja,2024-09-23,2024-08-21,41558.76,Bus,Completed
+100,7,Kano,Abuja,2024-12-06,2024-04-19,17926.66,Bus,Pending
+101,9,Lagos,Port Harcourt,2024-10-08,2024-05-26,78938.88,Car,Pending
+102,24,Enugu,Lagos,2024-03-03,2024-04-21,68722.87,Van,Completed
+103,1,Kano,Kano,2024-08-04,2024-08-16,18726.39,Van,Pending
+104,44,Port Harcourt,Abuja,2024-12-07,2024-04-21,74458.93,Van,Completed
+105,8,Lagos,Enugu,2024-11-10,2024-02-04,70892.75,Van,Pending
+106,24,Lagos,Abuja,2024-10-09,2024-04-21,46318.66,Bus,Completed
+107,11,Kano,Enugu,2024-06-25,2024-09-21,51389.28,Car,Completed
+108,17,Port Harcourt,Port Harcourt,2024-04-07,2025-01-04,37930.19,Van,Completed
+109,8,Port Harcourt,Enugu,2024-04-14,2024-08-24,13833.31,Bus,Pending
+110,35,Enugu,Kano,2024-04-08,2024-03-24,33463.81,Van,Cancelled
+111,35,Port Harcourt,Lagos,2024-11-06,2024-02-12,66199.74,Car,Completed
+112,33,Port Harcourt,Enugu,2024-01-06,2024-04-11,10324.24,Bus,Pending
+113,5,Port Harcourt,Enugu,2024-07-15,2024-01-07,33344.94,Car,Completed
+114,42,Abuja,Lagos,2024-12-16,2024-06-29,37871.81,Car,Completed
+115,39,Enugu,Kano,2024-05-12,2024-10-09,47617.69,Bus,Completed
+116,41,Lagos,Abuja,2024-12-23,2024-11-16,74389.89,Bus,Completed
+117,28,Kano,Enugu,2024-09-15,2024-08-14,34244.22,Bus,Completed
+118,7,Lagos,Lagos,2024-01-23,2024-11-11,34286.72,Bus,Pending
+119,9,Enugu,Port Harcourt,2024-02-22,2024-12-31,61625.09,Bus,Completed
+120,8,Kano,Lagos,2024-06-13,2024-08-17,41655.26,Bus,Completed
+121,12,Enugu,Port Harcourt,2024-07-20,2025-01-12,25722.34,Bus,Completed
+122,34,Port Harcourt,Kano,2024-03-23,2024-10-16,41670.77,Van,Pending
+123,33,Kano,Abuja,2024-05-24,2024-05-30,19859.99,Car,Pending
+124,48,Port Harcourt,Lagos,2024-03-25,2024-10-04,22347.09,Bus,Completed
+125,23,Lagos,Enugu,2024-03-18,2024-07-17,44885.74,Van,Pending
+126,24,Lagos,Kano,2024-12-31,2024-03-11,39324.78,Van,Completed
+127,37,Kano,Lagos,2024-01-01,2024-04-22,74039.21,Van,Cancelled
+128,35,Kano,Enugu,2024-02-20,2024-01-05,35367.57,Car,Completed
+129,44,Enugu,Lagos,2024-06-21,2024-12-16,50641.18,Bus,Pending
+130,40,Enugu,Port Harcourt,2024-07-23,2024-11-27,54258.5,Van,Completed
+131,22,Port Harcourt,Lagos,2024-09-16,2024-11-14,10916.61,Car,Completed
+132,27,Kano,Lagos,2024-10-14,2024-12-16,56447.62,Car,Cancelled
+133,35,Lagos,Lagos,2024-02-03,2024-04-05,22462.52,Car,Completed
+134,1,Enugu,Kano,2024-12-13,2024-06-01,77274.92,Van,Completed
+135,35,Enugu,Lagos,2024-04-04,2024-11-07,20406.39,Bus,Completed
+136,37,Lagos,Enugu,2024-03-12,2024-05-17,39023.69,Van,Completed
+137,47,Enugu,Port Harcourt,2024-02-08,2024-09-04,15974.48,Van,Completed
+138,14,Port Harcourt,Port Harcourt,2024-06-02,2025-01-22,79781.2,Bus,Completed
+139,3,Kano,Lagos,2024-09-06,2024-08-31,45153.65,Bus,Completed
+140,1,Lagos,Kano,2024-06-10,2024-02-01,51676.95,Bus,Completed
+141,5,Kano,Kano,2024-04-27,2024-02-10,14695.35,Car,Cancelled
+142,26,Enugu,Enugu,2024-09-15,2024-08-17,62497.23,Bus,Completed
+143,14,Enugu,Lagos,2024-11-01,2024-02-06,24693.39,Van,Completed
+144,39,Lagos,Port Harcourt,2024-09-24,2024-08-11,72863.8,Bus,Completed
+145,27,Port Harcourt,Kano,2024-02-23,2024-01-07,24359.77,Van,Completed
+146,9,Abuja,Lagos,2024-08-23,2024-11-18,23348.14,Car,Cancelled
+147,15,Lagos,Kano,2024-08-09,2024-08-08,12558.48,Van,Completed
+148,15,Abuja,Kano,2024-09-07,2024-03-16,43044.69,Van,Completed
+149,26,Abuja,Port Harcourt,2024-11-08,2024-01-05,49538.88,Bus,Cancelled
+150,42,Port Harcourt,Abuja,2024-04-21,2024-12-01,14599.6,Bus,Cancelled
+151,13,Abuja,Enugu,2024-09-11,2024-05-14,64286.93,Van,Completed
+152,32,Abuja,Enugu,2024-10-29,2024-04-28,41730.22,Bus,Cancelled
+153,39,Port Harcourt,Port Harcourt,2024-07-25,2025-01-04,46707.32,Car,Pending
+154,49,Abuja,Kano,2024-08-16,2024-04-04,40853.39,Car,Completed
+155,32,Abuja,Lagos,2024-12-06,2024-03-03,38053.41,Bus,Cancelled
+156,4,Abuja,Kano,2024-03-06,2024-07-13,49174.82,Car,Cancelled
+157,30,Lagos,Port Harcourt,2024-03-15,2024-12-01,20866.82,Bus,Completed
+158,37,Lagos,Enugu,2024-04-12,2024-07-22,22734.97,Van,Completed
+159,23,Lagos,Kano,2024-07-10,2025-01-27,70324.99,Van,Completed
+160,39,Port Harcourt,Enugu,2024-09-08,2024-01-27,76228.08,Car,Pending
+161,45,Enugu,Lagos,2024-08-13,2024-06-22,36131.65,Bus,Pending
+162,15,Abuja,Enugu,2024-10-20,2024-10-27,28952.13,Bus,Completed
+163,43,Abuja,Enugu,2024-11-01,2024-05-13,55079.97,Car,Completed
+164,29,Port Harcourt,Abuja,2024-04-07,2024-11-22,38611.39,Van,Completed
+165,36,Abuja,Abuja,2024-12-03,2024-04-28,11777.04,Car,Completed
+166,13,Lagos,Abuja,2024-10-12,2024-11-20,20930.68,Van,Completed
+167,32,Enugu,Enugu,2024-11-30,2024-10-02,60118.06,Bus,Completed
+168,7,Kano,Port Harcourt,2024-12-12,2024-07-31,56124.68,Van,Cancelled
+169,22,Abuja,Enugu,2024-11-03,2024-08-13,11896.72,Car,Completed
+170,28,Lagos,Port Harcourt,2024-09-05,2024-01-21,25538.05,Bus,Cancelled
+171,2,Kano,Port Harcourt,2024-06-14,2024-04-23,26175.24,Car,Completed
+172,42,Enugu,Abuja,2024-11-30,2024-05-20,57032.49,Car,Completed
+173,45,Kano,Kano,2024-01-30,2024-02-17,11379.74,Van,Completed
+174,6,Lagos,Lagos,2024-09-03,2024-01-02,17287.6,Car,Completed
+175,28,Kano,Abuja,2024-04-15,2024-03-31,65994.13,Van,Pending
+176,28,Port Harcourt,Abuja,2024-02-20,2024-05-22,22498.13,Bus,Completed
+177,44,Kano,Kano,2024-03-21,2024-11-16,55692.23,Van,Pending
+178,44,Abuja,Lagos,2024-05-12,2024-02-08,26672.79,Bus,Completed
+179,20,Abuja,Enugu,2024-10-11,2024-10-20,16960.9,Van,Cancelled
+180,30,Port Harcourt,Enugu,2024-05-17,2025-01-17,27022.05,Car,Completed
+181,11,Lagos,Abuja,2024-07-02,2024-05-19,60558.69,Van,Cancelled
+182,28,Abuja,Lagos,2024-11-25,2024-12-22,69898.75,Van,Cancelled
+183,25,Enugu,Abuja,2024-09-29,2024-11-29,68115.39,Bus,Completed
+184,39,Abuja,Port Harcourt,2024-12-05,2024-09-16,37802.85,Car,Completed
+185,33,Abuja,Abuja,2024-03-09,2024-06-10,56765.96,Van,Pending
+186,1,Lagos,Abuja,2024-02-03,2025-01-25,24348.9,Car,Pending
+187,27,Kano,Enugu,2024-09-18,2024-06-27,30520.34,Van,Completed
+188,13,Abuja,Enugu,2024-02-22,2024-01-11,72743.51,Van,Cancelled
+189,41,Port Harcourt,Enugu,2024-07-23,2024-09-18,10910.13,Car,Pending
+190,3,Kano,Port Harcourt,2024-05-05,2024-05-18,15985.6,Van,Pending
+191,39,Enugu,Enugu,2024-08-22,2024-06-21,24552.04,Car,Pending
+192,6,Lagos,Lagos,2024-02-12,2025-01-21,11857.25,Van,Cancelled
+193,8,Enugu,Kano,2024-08-27,2024-01-14,22700.48,Bus,Completed
+194,27,Kano,Lagos,2024-04-20,2024-06-17,50812.91,Car,Completed
+195,9,Kano,Lagos,2024-09-05,2024-05-10,39499.72,Van,Completed
+196,37,Kano,Enugu,2024-05-30,2024-03-25,72487.02,Van,Cancelled
+197,33,Enugu,Kano,2024-07-01,2024-11-17,67221.05,Bus,Cancelled
+198,42,Kano,Kano,2024-12-01,2024-11-15,33927.21,Car,Completed
+199,44,Enugu,Kano,2024-04-04,2024-04-11,28159.64,Van,Pending
+200,24,Kano,Port Harcourt,2024-01-08,2024-11-25,36578.47,Bus,Cancelled

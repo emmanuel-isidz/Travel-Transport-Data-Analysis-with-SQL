@@ -1,0 +1,21 @@
+vehicle_id,vehicle_type,plate_number,status
+1,Car,ABC-001-NG,In Use
+2,Van,ABC-002-NG,Available
+3,Van,ABC-003-NG,Under Maintenance
+4,Bus,ABC-004-NG,Available
+5,Bus,ABC-005-NG,Under Maintenance
+6,Car,ABC-006-NG,Under Maintenance
+7,Van,ABC-007-NG,In Use
+8,Van,ABC-008-NG,Under Maintenance
+9,Bus,ABC-009-NG,Under Maintenance
+10,Van,ABC-010-NG,In Use
+11,Bus,ABC-011-NG,Under Maintenance
+12,Car,ABC-012-NG,In Use
+13,Bus,ABC-013-NG,In Use
+14,Van,ABC-014-NG,Under Maintenance
+15,Car,ABC-015-NG,Under Maintenance
+16,Bus,ABC-016-NG,Available
+17,Bus,ABC-017-NG,In Use
+18,Car,ABC-018-NG,Available
+19,Car,ABC-019-NG,Under Maintenance
+20,Bus,ABC-020-NG,Available
